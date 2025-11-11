@@ -1,0 +1,2 @@
+class SecretSantaError(Exception):
+    pass
